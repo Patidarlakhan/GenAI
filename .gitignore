@@ -1,0 +1,34 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ragcampusx/
+ragAdancedCampusX/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Build files
+build/
+dist/
+*.egg-info/
+# Hugging Face cache
+D:/huggingface_cache/
+huggingface_cache/
+.cache/
